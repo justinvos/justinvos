@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Software Engineer based in Lisbon, Portugal 🇵🇹 but from Auckland, New Zealand 🇳🇿.
+
 <!--
 **justinvos/justinvos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
